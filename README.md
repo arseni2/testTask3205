@@ -1,7 +1,12 @@
 # Запуск фронта
+```
 cd client
-npm i
-npm run dev
+```
+
+```npm i```
+
+```npm run dev```
+
 url = http://localhost:5173/
 
 # Запуск бека
